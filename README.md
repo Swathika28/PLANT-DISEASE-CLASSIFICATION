@@ -8,3 +8,17 @@ Plant disease management is of paramount importance as it directly influences gl
 Classification is the technique of classifying the image into classes. This method only classifies the image, it won’t detect any object. The task of classifying the digits, classifying cat and dog are some of the examples for classification.
 
 Object detection is the technique of identifying the location of the object present in the image and classify the objects present in that location. The input for object detection model is images with annotation files (bounding box co-ordinate and its class label).The output of the trained object detection model is image enclosed with rectangular boxes along with class label and its confidence. Plant disease detection, fruit counting, face detection are some examples for object detection task. 
+
+## WORKING PROCESS
+1) Data Collection - We used a dataset from kaggle for this
+2) Data Preprocessing - We preprossed the dataset so that we could use that for training purpose
+3) Model Training - We split the dataset into 80-20 and used 80 percent for training We got 98.98% accuracy
+4) Data Ploting - For the purpose of visualization we plotted the data
+5) Model Testing - We tested the model with using 20 % of the dataset
+6) Exporting the Model - We have exported the model so that it could be used for the other purposes
+
+## PROGRAM
+PYTHON
+```
+SGAJG
+```
