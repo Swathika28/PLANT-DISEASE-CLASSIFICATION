@@ -18,6 +18,6 @@ Object detection is the technique of identifying the location of the object pres
 6) Exporting the Model - We have exported the model so that it could be used for the other purposes
 
 ## PROGRAM
-python```
+```python
 SGAJG
 ```
