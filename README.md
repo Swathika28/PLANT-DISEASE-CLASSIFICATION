@@ -290,10 +290,12 @@ torch.save(resnet, PATH)
 ```
 
 ## INPUT
+![INPUT](pdc.png)
 
+![input](plantdis.jpeg)
 
 ## OUTPUT
-
+![input](output.png)
 
 ## RESULT
-
+ This project highlights the potential of combining RNNs and CNNs in plant disease classification, offering a robust and multidimensional solution to the challenges faced by the agricultural sector
