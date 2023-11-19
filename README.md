@@ -1,4 +1,4 @@
-# PLANT-DISEASE-CLASSIFICATION
+# PLANT-DISEASE-CLASSIFICATION USING IMAGE PROCESSING WITH RESNET
 ## INTRODUCTION:
 Detection of plant disease has a crucial role in better understanding the economy of India in terms of agricultural productivity.Plant diseases can have significant negative impacts on agricultural productivity and ecosystems such as crop losses,increased pesticide use etc.Here We are building a model, which can classify between healthy and diseased crop leaves and also if the crop have any disease, predict which disease is it.We use ResNet, which have been one of the major breakthrough in computer vision.
 ResNet, short for Residual Network is a specific type of neural network that was introduced in 2015 by Kaiming He, Xiangyu Zhang, Shaoqing Ren and Jian Sun in their paper “Deep Residual Learning for Image Recognition”.The ResNet models were extremely successful
