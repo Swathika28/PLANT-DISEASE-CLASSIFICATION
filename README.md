@@ -17,7 +17,8 @@ The methodology employed in this project involves the utilization of ResNet (Res
 In the context of this project, ResNet plays a crucial role in enhancing accuracy, contributing to the effectiveness of the system.
 
 ## WORKING PROCESS
-"C:\Users\swathika\Desktop\WORKFLOW.png"
+![image](https://github.com/Aashima02/AI08-Solve-Wumpus-World-Problem-using-Python-demonstrating-Inferences-from-Propositional-Logic/assets/93427086/a286ddbd-ec8e-4ea4-a6c4-85357445b060)
+
                                   
 
 ## PROGRAM
