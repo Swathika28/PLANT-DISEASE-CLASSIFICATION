@@ -292,7 +292,7 @@ torch.save(resnet, PATH)
 ## INPUT
 ![INPUT](pdc.png)
 
-![input](plantdis.jpeg)
+![input](plantdis.png)
 
 ## OUTPUT
 ![input](output.png)
