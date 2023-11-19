@@ -38,3 +38,18 @@ from torchvision.datasets import ImageFolder  # for working with classes and ima
 
 %matplotlib inline
 ```
+
+```python
+data_dir = "../input/new-plant-diseases-dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)"
+train_dir = data_dir + "/train"
+valid_dir = data_dir + "/valid"
+diseases = os.listdir(train_dir)
+nums = {}
+for disease in diseases:
+    nums[disease] = len(os.listdir(train_dir + '/' + disease))
+```
+
+```python
+ # converting the nums dictionary to pandas dataframe passing index as plant name and number of images as column
+img_per_cl
+```
